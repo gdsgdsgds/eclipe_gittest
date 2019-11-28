@@ -1,7 +1,7 @@
 package LianXi;
 
 import java.util.Scanner;
-
+//hahahhaahahhahahahahahahahahhahah
 public class QiuZhi {
 	public static void main(String[] args) {
 		Scanner rrr= new Scanner(System.in);
